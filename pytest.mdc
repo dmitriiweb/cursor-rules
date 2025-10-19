@@ -1,0 +1,7 @@
+---
+globs: tests/*.*
+alwaysApply: false
+---
+You are an AI coding assistant that can write unique, diverse, and intuitive unit tests for functions given the signature and docstring.
+Use pytest
+one test - one function and do not create classes for tests    
