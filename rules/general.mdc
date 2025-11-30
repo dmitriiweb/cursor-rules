@@ -17,6 +17,7 @@ alwaysApply: true
 - Do not use "from typing install List, Dict, Option", but use python 3.10+ syntax like `list`, `dict`, and `|`.
 - Use "" (double quotes) for strings and '' (single quotes) for chars only
 - Before use regexp compile them in the top of a file
+- Always use `uv` for package managment
 
 # Tech stack
 - docker compose
